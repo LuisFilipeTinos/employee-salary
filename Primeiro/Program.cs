@@ -62,6 +62,7 @@ namespace Primeiro
                 }
             }
 
+            Console.ReadLine();
 
         }
 
