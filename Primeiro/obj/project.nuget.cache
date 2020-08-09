@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w2gdx+NhHzXGgGfdg5WQkz7O15ZkRCU1lBWdhBm8glDh2GXvdPSjZyNJ5MszbHTAx3Ep/hWs7iOqgPaBuYzZCw==",
+  "dgSpecHash": "7k90oa6lJV+IvYg1TS2oAtEs2+yEv2vTA4rPFCmjV3rbwEZssUMhWZaxk5dTtMkoN3pBObBIeaM+MsX6IrT5XQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\55149\\Desktop\\Work Space - Visual Studio\\Primeiro\\Primeiro\\Primeiro.csproj",
+  "projectFilePath": "C:\\Users\\55149\\Desktop\\Work Space - Visual Studio\\employee-salary\\Primeiro\\Primeiro.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\55149\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
